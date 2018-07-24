@@ -1,3 +1,3 @@
 # Game-of-life
-Game of life on vanilla JS
+Game of life on vanilla JS <br>
 ![review](example.gif)
